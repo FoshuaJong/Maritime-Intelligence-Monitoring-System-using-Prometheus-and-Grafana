@@ -39,8 +39,8 @@ docker-compose -f .\docker\docker-compose.yml up -d
 3. Upload the `.json` files in `grafana-dashboards/`
 
 ## Grafana Dashboard screenshots
-![Shipping Companies / Fleet Operators](https://github.com/FoshuaJong/Maritime-Intelligence-Monitoring-System-using-Prometheus-and-Grafana/tree/main/grafana-dashboards/images/dashboard_screenshot.png)
-![Port Authorities / Terminal Operators](https://github.com/FoshuaJong/Maritime-Intelligence-Monitoring-System-using-Prometheus-and-Grafana/tree/main/grafana-dashboards/images/dashboard_screenshot_1.png)
+![Shipping Companies / Fleet Operators](https://raw.githubusercontent.com/FoshuaJong/Maritime-Intelligence-Monitoring-System-using-Prometheus-and-Grafana/main/grafana-dashboards/images/dashboard_screenshot.png)
+![Port Authorities / Terminal Operators](https://raw.githubusercontent.com/FoshuaJong/Maritime-Intelligence-Monitoring-System-using-Prometheus-and-Grafana/main/grafana-dashboards/images/dashboard_screenshot_1.png)
 
 ## Notes
 
