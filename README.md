@@ -15,7 +15,7 @@ This is a **demonstration project** showcasing Business Intelligence (BI) skills
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Hallimer/Maritime-Intelligence-Monitoring-System-using-Prometheus-and-Grafana.git
+git clone https://github.com/FoshuaJong/Maritime-Intelligence-Monitoring-System-using-Prometheus-and-Grafana
 cd Maritime-Intelligence-Monitoring-System-using-Prometheus-and-Grafana
 ```
 
