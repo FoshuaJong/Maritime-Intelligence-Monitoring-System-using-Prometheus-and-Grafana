@@ -39,7 +39,9 @@ docker-compose -f .\docker\docker-compose.yml up -d
 3. Upload the `.json` files in `grafana-dashboards/`
 
 ## Grafana Dashboard screenshots
+1. Stakeholder: Shipping Companies / Fleet Operators interested in revenue and utilization
 ![Shipping Companies / Fleet Operators](https://raw.githubusercontent.com/FoshuaJong/Maritime-Intelligence-Monitoring-System-using-Prometheus-and-Grafana/main/grafana-dashboards/images/dashboard_screenshot.png)
+2. Port Authorities / Terminal Operators interested in port congestion and throughput
 ![Port Authorities / Terminal Operators](https://raw.githubusercontent.com/FoshuaJong/Maritime-Intelligence-Monitoring-System-using-Prometheus-and-Grafana/main/grafana-dashboards/images/dashboard_screenshot_1.png)
 
 ## Notes
